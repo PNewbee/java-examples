@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=DiverseArray
+comment0.text=\r\n\ DiverseArray\ is\ question\ \#1\ from\ the\ 2015\ FRQ.\r\n\r\n\ @author\ (Stoll)\r\n\ @version\ (2017-18)\r\n
+comment1.params=
+comment1.target=DiverseArray()
+comment2.params=arrayIn
+comment2.target=void\ arraySum(int[])
+comment3.params=arrayIn
+comment3.target=void\ rowSums(int[][])
+comment4.params=arrayIn
+comment4.target=boolean\ diverseArray(int[][])
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

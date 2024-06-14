@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=GuessThree
+comment1.params=numDigits
+comment1.target=java.lang.String\ getSecretNum(int)
+comment2.params=guess\ secretNum
+comment2.target=java.lang.String\ getClues(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=boolean\ playAgain()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

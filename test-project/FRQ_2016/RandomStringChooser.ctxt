@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RandomStringChooser
+comment0.text=\r\n\ RandomStringChooser\ accepts\ an\ array\ of\ strings\ and\ places\ them\ in\ an\ ArrayList.\r\n\ <p>\r\n\ It\ is\ critical\ for\ students\ to\ import\ java.util.ArrayList.\ \r\n\ <p>\r\n\ @param\ An\ array\ of\ strings\ is\ passed\ into\ the\ constructor\ upon\ creation\ instantiation.\ \r\n\ @author\ (http\://www.skylit.com/beprepared/x2016a1.html)\ \r\n\ @version\ (2/2017)\r\n
+comment1.params=wordArray
+comment1.target=RandomStringChooser(java.lang.String[])
+comment2.params=
+comment2.target=java.lang.String\ getNext()
+comment2.text=\r\n\ The\ getNext()\ method\ gets\ the\ next\ random\ string\ from\ the\ ArrayList.\ \r\n\ <p>\r\n\ It\ removes\ the\ element\ and\ returns\ the\ selected\ string.\ \ \r\n\ 'NONE'\ is\ returned\ If\ there\ are\ no\ strings\ remaining\ in\ the\ array.\r\n\ IMPORTANT\:\ The\ remove(i)\ function\ returns\ the\ element\ formerly\ at\ index\ i.\r\n\ <p>\r\n\ @returns\ Random\ array\ element\r\n
+numComments=3

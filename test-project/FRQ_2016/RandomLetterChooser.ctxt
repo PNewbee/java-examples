@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RandomLetterChooser
+comment0.text=\r\n\ RandomLetterChooser\ is\ designed\ as\ a\ sub-class\ of\ RandomStringChooser.\ Its\ sole\ purpose\ seems\ to\r\n\ be\ to\ call\ the\ method\ RandomLetterChooser\ in\ its\ parent\ class.\r\n\ \r\n\ @author\ (Stoll)\ \r\n\ @version\ (2/2017)\r\n
+comment1.params=str
+comment1.target=RandomLetterChooser(java.lang.String)
+comment2.params=str
+comment2.target=java.lang.String[]\ getStringLetters(java.lang.String)
+comment2.text=\r\n\ The\ getStringLetters()\ method\ gets\ a\ random\ character\ a\ string\ passed\ into\ it.\ \r\n\ <p>\r\n\ <p>\r\n\ @param\ Takes\ a\ string\ as\ an\ input\r\n\ @returns\ Random\ character\ from\ the\ string\ that\ was\ passed\ into\ the\ method.\r\n
+numComments=3
